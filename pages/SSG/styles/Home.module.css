@@ -1,14 +1,16 @@
 .container {
-  min-height: 100px;
+  min-height: 3px;
   display: flex;
   flex-direction: column;
   text-align: center;
 }
+
 .hero-list {
   display: flex;
   flex-direction: column;
   list-style: none;
 }
+
 .header {
   text-align: center;
   padding-bottom: 20px;
